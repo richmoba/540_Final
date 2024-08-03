@@ -8,29 +8,53 @@ This project implements a fall detection system using an Orbbec 3D Depth Camera.
 
 project_root/
 │
+
 ├── data/
+
 │   ├── ur_fall_detection_dataset/
+
 │   │   └── extracted_features/
+
 │   │       ├── urfall-cam0-falls.csv
+
 │   │       └── urfall-cam0-adls.csv
+
 │   └── processed/
+
 │
+
 ├── models/
+
 │   ├── random_forest_model.pkl
+
 │   └── deep_learning_model.h5
+
 │
+
 ├── scripts/
+
 │   ├── init.py
+
 │   ├── config.py
+
 │   ├── utils.py
+
 │   ├── data_loader.py
+
 │   ├── model.py
+
 │   └── real_time_monitoring.py
+
 │
+
 ├── main.py
+
 ├── setup.py
+
 ├── requirements.txt
+
 └── README.md
+
 
 ## Installation
 
