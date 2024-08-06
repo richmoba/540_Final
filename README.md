@@ -59,7 +59,7 @@ project_root/
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/your-username/fall-detection.git
+git clone https://github.com/richmoba/540_Final.git
 cd fall-detection
 2. Install the required packages:
 pip install -r requirements.txt
