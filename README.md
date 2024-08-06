@@ -1,4 +1,4 @@
-# 540_Final
+# 540_Final Richmond Baker
 540 Final project Python program that uses a camera to monitor human movement  
 # Fall Detection with Camera's
 
