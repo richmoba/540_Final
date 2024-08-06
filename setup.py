@@ -1,17 +1,18 @@
-from setuptools import setup, find_packages
+from setuptools import setup, find_packages # Always prefer setuptools over distutils
 
-setup(
-    name="fall_detection",
-    version="0.1",
-    packages=find_packages(),
-    install_requires=[
-        'pandas',
-        'numpy',
-        'scikit-learn',
-        'tensorflow',
-        'joblib',
-        'plotly',
-        'streamlit',
-        'opencv-python',
-    ],
-)
+setup(  # Setup the
+    name="fall_detection",  # Package name
+    version="0.1",  # Package version
+    packages=find_packages(),   # Find all packages
+    install_requires=[  # List of dependencies
+        'pandas',   # Pandas library
+        'numpy',    # NumPy library
+        'scikit-learn', # Scikit-learn library
+        'tensorflow',   # TensorFlow library
+        'joblib',   # Joblib library
+        'plotly',   # Plotly library
+        'streamlit',    # Streamlit library
+        'opencv-python',    # OpenCV library
+        'pyrealsense2'  # PyRealSense2 library
+    ],  # End of dependencies
+)   # End of setup
