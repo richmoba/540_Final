@@ -68,6 +68,8 @@ pip install -r requirements.txt
 
 
 ## Usage
+you would need to download the UR Fall Detection Dataset
+http://fenix.ur.edu.pl/~mkepski/ds/uf.html
 
 Run the main script:
 Streamlit run main.py
