@@ -1,4 +1,6 @@
 # 540_Final Richmond Baker
+Richmond.Baker@duke.edu
+404-309-3296
 540 Final project Python program that uses a camera to monitor human movement  
 # Fall Detection with Camera's
 
