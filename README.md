@@ -68,9 +68,9 @@ pip install -r requirements.txt
 ## Usage
 
 Run the main script:
-python main.py
+Streamlit run main.py
 
-This will start the Streamlit app. Follow the on-screen instructions to train models and start real-time monitoring.
+This will start the Streamlit app. will show you how the models are performing and then will give you a chance to drop a recording and have it tell you if the video showes you someone walking or falling The real-time monitoring portion is not currently working but it will review video that has been saved and tell you whats going on.
 
 ## Features
 
