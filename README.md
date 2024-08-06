@@ -1,8 +1,8 @@
 # 540_Final
 540 Final project Python program that uses a camera to monitor human movement  
-# Fall Detection with Orbbec 3D Depth Camera
+# Fall Detection with Camera's
 
-This project implements a fall detection system using an Orbbec 3D Depth Camera. It utilizes both Random Forest and Deep Learning models to classify falls based on extracted features from depth frames.
+This project implements a fall detection system using an  regular 2D cameras. It utilizes both Random Forest and Deep Learning models to classify falls based on extracted features from depth frames.
 
 ## Project Structure
 
