@@ -77,7 +77,7 @@ This will start the Streamlit app. Follow the on-screen instructions to train mo
 - Data loading and preprocessing
 - Training of Random Forest and Deep Learning models
 - Model evaluation with performance metrics and confusion matrices
-- Real-time fall detection using the Orbbec 3D Depth Camera
+- Real-time fall detection using 2d Camera
 
 ## Contributing
 
