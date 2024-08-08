@@ -80,7 +80,7 @@ def main(): # Main function
     dl_model.save(Config.DL_MODEL_PATH, save_format='keras')    # Save the Deep Learning model
 
     # Input selection
-    input_option = st.radio("Choose input source:", ("Live Camera", "Bag File", "Recorded Video"))  # Radio button for input selection
+    input_option = st.radio("Choose input source:", ("Live Camera (Not working yet)", "Bag File (not working yet)", "Recorded Video"))  # Radio button for input selection
 
     if input_option == "Bag File":  # If input_option is "Bag File"
         bag_file = st.file_uploader("Upload .bag file", type="bag") # File uploader for .bag file
