@@ -68,7 +68,12 @@ pip install -r requirements.txt
 
 
 ## Usage
-you would need to download the UR Fall Detection Dataset
+
+To run it from the web use this link:
+https://540final-syx32dxwbxuhsogvrgukgp.streamlit.app/ 
+Streamlit (540final-syx32dxwbxuhsogvrgukgp.streamlit.app)
+
+if you want to retrain it you would need to download the UR Fall Detection Dataset
 http://fenix.ur.edu.pl/~mkepski/ds/uf.html
 
 Run the main script:
