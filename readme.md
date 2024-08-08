@@ -61,6 +61,17 @@ and when I run it from the web it detects walking as falling... still need to wo
 - Model evaluation with performance metrics and confusion matrices
 - Real-time fall detection using the Orbbec 3D Depth Camera
 
+
+##Bugs
+Noticed a few bugs with it depending on the machine that I run it on:
+When I run it on my lower powered machine and with the sample video files on external  hard drive it detects falls when there are none.
+
+But if I moved the sample files to the C: drive it worked. 
+
+Noticing the same thing on the web hosted version.. 
+I will update the readme to reflect this as well. 
+
+Streamlit (540final-syx32dxwbxuhsogvrgukgp.streamlit.app)
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
