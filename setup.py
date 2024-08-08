@@ -13,6 +13,6 @@ setup(  # Setup the
         'plotly',   # Plotly library
         'streamlit',    # Streamlit library
         'opencv-python',    # OpenCV library
-        'pyrealsense2'  # PyRealSense2 library
-    ],  # End of dependencies
+        'opencv-python-headless' #  OpenCV library headless
+       ],  # End of dependencies
 )   # End of setup
