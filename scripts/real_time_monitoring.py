@@ -1,4 +1,3 @@
-import pyrealsense2 as rs   # Intel RealSense cross-platform open-source API
 import numpy as np        # NumPy for array manipulation
 import cv2              # OpenCV
 import streamlit as st   # Streamlit for the web app
